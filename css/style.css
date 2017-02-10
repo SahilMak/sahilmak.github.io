@@ -23,5 +23,6 @@ img {
 
 #jumbo-text {
     text-align: center;
-    font-family: cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 5.5em;
 }
