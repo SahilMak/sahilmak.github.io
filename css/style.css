@@ -1,3 +1,7 @@
+body {
+    padding-top: 55px;
+}
+
 a {
     text-decoration: none;
 }
@@ -6,7 +10,17 @@ ul {
     list-style-type: none;
 }
 
+.jumbotron {
+    background-color: transparent !important;
+}
+
 img {
-    height: 100px;
-    padding-top: 0;
+    height: 412px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#jumbo-text {
+    text-align: center;
 }
