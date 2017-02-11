@@ -2,6 +2,10 @@ body {
     padding-top: 55px;
 }
 
+.content {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("../img/hiking.jpg") no-repeat 50% 20%;
+}
+
 a {
     text-decoration: none;
 }
@@ -11,7 +15,7 @@ ul {
 }
 
 .jumbotron {
-    background-color: transparent !important;
+    background-color: white !important;
 }
 
 img {
@@ -31,4 +35,5 @@ img {
     text-align: center;
     font-family: 'Permanent Marker', cursive;
     font-size: 4.5em;
+    color: white;
 }
