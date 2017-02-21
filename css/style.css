@@ -58,6 +58,13 @@ iframe {
 
 i {
     color: white;
+}
+
+.social {
     padding-left: 5%;
     padding-right: 5%;
+}
+
+#left-icon {
+    padding-left: 1%;
 }
