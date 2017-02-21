@@ -20,6 +20,19 @@ ul {
     background-color: white !important;
 }
 
+.nav-buttons {
+    padding-top: 1%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.btn-default {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    border-width: thick;
+    border-color: black;
+}
+
 img {
     height: 412px;
     display: block;
