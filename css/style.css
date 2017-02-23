@@ -66,8 +66,14 @@ img {
     padding-bottom: 5%;
 }
 
+.music {
+    text-align: center;
+}
+
 iframe {
-    padding-top: 15%;
+    padding-top: 10%;
+    display: inline;
+    float: none;
 }
 
 i {
