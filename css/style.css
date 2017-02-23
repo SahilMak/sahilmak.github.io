@@ -67,18 +67,18 @@ img {
 }
 
 iframe {
-    padding-top: 10%;
-    padding-left: 25%;
+    padding-top: 15%;
 }
 
 i {
     color: white;
 }
 
-.social {
-    padding-left: 10%;
+.col-sm-2 {
+    text-align: center;
 }
 
-#left-icon {
-    padding-left: 12%;
+.social {
+    display: inline;
+    float: none;
 }
