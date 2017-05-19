@@ -44,7 +44,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.gitignore
 .idea/modules.xml
 .idea/my-site.iml
 .idea/workspace.xml
